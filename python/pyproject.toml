@@ -1,0 +1,17 @@
+[project]
+name = "cxmooc"
+version = "0.1.0"
+description = "学习通/超星 MOOC MCP server for automation"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "httpx>=0.27.0",
+    "pyDes>=2.0.1",
+    "beautifulsoup4>=4.12.0",
+]
+
+[project.scripts]
+cxmooc-mcp = "cxmooc.server:main"
+
+[tool.setuptools.packages.find]
+include = ["cxmooc*"]
