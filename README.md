@@ -1,11 +1,11 @@
 # easystudy-mcp
 
-> 让你更轻松的学习 — 超星/学习通 MCP 自动化服务器
+> 让你更轻松的学习 — 超星 MCP 自动化服务器
 
 [![npm](https://img.shields.io/npm/v/easystudy-mcp)](https://www.npmjs.com/package/easystudy-mcp)
 [![license](https://img.shields.io/github/license/Cindorolla95/easystudy-mcp)](LICENSE)
 
-**easystudy-mcp** 是一个连接**超星学习通**平台的 MCP (Model Context Protocol) 服务器，让你通过 AI 助手自动完成课程学习任务 — 查看课程、提交作业、自动刷课、下载资料，全部用自然语言交互。
+**easystudy-mcp** 是一个连接**超星**平台的 MCP (Model Context Protocol) 服务器，让你通过 AI 助手自动完成课程学习任务 — 查看课程、提交作业、自动刷课、下载资料，全部用自然语言交互。
 
 8 个工具覆盖超星平台的日常操作，支持 Claude Code、Cowork、以及任何 MCP 兼容客户端。
 
@@ -226,5 +226,5 @@ Apache-2.0
 ---
 
 <p align="center">
-  <sub>让 AI 帮你搞定超星学习通 ✨</sub>
+  <sub>让 AI 帮你搞定超星 ✨</sub>
 </p>
